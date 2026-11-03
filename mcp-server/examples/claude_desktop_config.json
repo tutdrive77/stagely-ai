@@ -1,0 +1,15 @@
+{
+  "name": "Omnia Media MCP Examples",
+  "description": "Sample integration scripts for Claude Desktop and Claude Code",
+  "claude_desktop_config_example": {
+    "mcpServers": {
+      "omnia-media": {
+        "command": "npx",
+        "args": ["-y", "omnia-media-mcp"],
+        "env": {
+          "RUNWARE_API_KEY": "YOUR_API_KEY_HERE"
+        }
+      }
+    }
+  }
+}

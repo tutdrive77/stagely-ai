@@ -20,8 +20,9 @@ E-commerce merchants spend thousands on physical studio photography to create li
 
 - **Sub-1.5s Edge Inference:** Powered by Runware's distributed GPU cluster.
 - **Brand Geometry Invariance:** Product labels, barcodes, and contours are 100% preserved.
+- **Model Context Protocol (MCP) Integration:** Native MCP Server (`mcp-server/`) allowing Claude Desktop, Claude Code, and Cursor to orchestrate product staging, background removal, and asset rendering via standard tool-calling.
 - **Zero-Prompt Presets:** Built-in studio presets designed specifically for cosmetics, footwear, beverage, and home goods.
-- **Interactive Before/After Studio:** Live interactive split slider for instant visual QA.
+- **Interactive Before/After Studio & Creator Chat:** Live interactive split slider and dedicated chat-style recreation console for instant visual QA.
 
 ---
 
